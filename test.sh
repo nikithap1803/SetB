@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Read a character from the user
-echo "Enter a lowercase character:"
+echo "Enter a character:"
 read char
 
 # Check if input is a single character
